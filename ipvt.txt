@@ -212,6 +212,20 @@ ViuTV Six （第二聲度）,https://cdn.hkyoutv.com/hls/96b/index.m3u8
 香港開電視,https://cdn.hkyoutv.com/hls/77/index.m3u8
 香港國際財經台,https://cdn.hkyoutv.com/hls/76/index.m3u8
 
+HK超清地面波(挂代理),#genre#
+翡翠台,https://cdn.hkdtmb.com/raw/81.ts
+J2台,https://cdn.hkdtmb.com/raw/82.ts
+無綫新聞台,https://cdn.hkdtmb.com/raw/83.ts
+明珠台,https://cdn.hkdtmb.com/raw/84.ts
+無綫財經·資訊台,https://cdn.hkdtmb.com/raw/85.ts
+ViuTV,https://cdn.hkdtmb.com/raw/99.ts
+ViuTV Six,https://cdn.hkdtmb.com/raw/96.ts
+港台電視31,https://cdn.hkdtmb.com/raw/31.ts
+港台電視32,https://cdn.hkdtmb.com/raw/32.ts
+港台電視33,https://cdn.hkdtmb.com/raw/33.ts
+香港開電視,https://cdn.hkdtmb.com/raw/77.ts
+香港國際財經台,https://cdn.hkdtmb.com/raw/76.ts
+
 HK高清2,#genre#
 无线新闻,http://iptv.tvfix.org/hls/inews.m3u8
 翡翠台(繁体) ,http://iptv.tvfix.org/hls/jade.m3u8
@@ -484,9 +498,6 @@ ViuTVsix,mitv://ns2.hellotvvod.com:9906/0a2171b6dcd6420c98ccfb7c7f524504
 ViuTV,mitv://ns2.hellotvvod.com:9906/d7506148214e4b3fae543068f1701ff7
 HKC 18,mitv://ns2.hellotvvod.com:9906/36976aef6f4f4ab2aad06b8ece5aac54
 HKC 603,mitv://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
-
-
-
 
 
 
