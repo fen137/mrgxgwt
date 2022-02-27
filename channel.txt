@@ -1,5 +1,7 @@
 $c_start香港$c_end
 翡翠台广东,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
+$c_start香港$c_end
+翡翠台广东,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
 明珠台广东,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 翡翠台（高清）,http://iptv.tvfix.org/hls/jade.m3u8
@@ -211,6 +213,20 @@ ViuTV Six （第二聲度）,https://cdn.hkyoutv.com/hls/96b/index.m3u8
 港台電視33,https://cdn.hkyoutv.com/hls/33/index.m3u8
 香港開電視,https://cdn.hkyoutv.com/hls/77/index.m3u8
 香港國際財經台,https://cdn.hkyoutv.com/hls/76/index.m3u8
+
+$c_startHK超清地面波(挂代理)$c_end
+翡翠台,https://cdn.hkdtmb.com/raw/81.ts
+J2台,https://cdn.hkdtmb.com/raw/82.ts
+無綫新聞台,https://cdn.hkdtmb.com/raw/83.ts
+明珠台,https://cdn.hkdtmb.com/raw/84.ts
+無綫財經·資訊台,https://cdn.hkdtmb.com/raw/85.ts
+ViuTV,https://cdn.hkdtmb.com/raw/99.ts
+ViuTV Six,https://cdn.hkdtmb.com/raw/96.ts
+港台電視31,https://cdn.hkdtmb.com/raw/31.ts
+港台電視32,https://cdn.hkdtmb.com/raw/32.ts
+港台電視33,https://cdn.hkdtmb.com/raw/33.ts
+香港開電視,https://cdn.hkdtmb.com/raw/77.ts
+香港國際財經台,https://cdn.hkdtmb.com/raw/76.ts
 
 $c_startHK高清2$c_end
 无线新闻,http://iptv.tvfix.org/hls/inews.m3u8
@@ -650,4 +666,3 @@ PsychopornTW,p9p://45.86.67.154:9906/608c037b0005e54c03a7705dc4f2e0d2.ts
 美国家庭,p9p://45.86.67.154:9906/608c03e2000dff3203a904c8e2c1604e.ts
 欧美艺术,p9p://45.86.67.154:9906/608c0408000d5fc803a9990f5e1be750.ts
 果冻传媒,p9p://45.86.67.154:9906/608c0435000affe303aa483b0c83ac05.ts
-
