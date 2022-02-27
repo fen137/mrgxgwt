@@ -1,106 +1,84 @@
 #EXTM3U
-#EXTINF:-1 group-title="高清香港台（地面波源）",翡翠台
+#EXTINF:-1 group-title="高清香港台（地面波源）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
 https://cdn.hkyoutv.com/hls/81/index.m3u8
-#EXTINF:-1 group-title="高清香港台（地面波源）",翡翠台 (中英字幕)
+#EXTINF:-1 group-title="高清香港台（地面波源）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台 (中英字幕)
 https://cdn.hkyoutv.com/hls/81b/index.m3u8
-#EXTINF:-1 group-title="高清香港台（地面波源）",J2台
+#EXTINF:-1 group-title="高清香港台（地面波源）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",J2台
 https://cdn.hkyoutv.com/hls/82/index.m3u8
-#EXTINF:-1 group-title="高清香港台（地面波源）",無綫新聞台
+#EXTINF:-1 group-title="高清香港台（地面波源）" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQ2QS.png",無綫新聞台
 https://cdn.hkyoutv.com/hls/83/index.m3u8
-#EXTINF:-1 group-title="高清香港台（地面波源）",明珠台
+#EXTINF:-1 group-title="高清香港台（地面波源）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",明珠台
 https://cdn.hkyoutv.com/hls/84/index.m3u8
-#EXTINF:-1 group-title="高清香港台（地面波源）",明珠台 (粵語聲道)
+#EXTINF:-1 group-title="高清香港台（地面波源）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",明珠台 (粵語聲道)
 https://cdn.hkyoutv.com/hls/84b/index.m3u8
-#EXTINF:-1 group-title="高清香港台（地面波源）",無綫財經·資訊台
+#EXTINF:-1 group-title="高清香港台（地面波源）" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQhRH.png",無綫財經·資訊台
 https://cdn.hkyoutv.com/hls/85/index.m3u8
-#EXTINF:-1 group-title="高清香港台（地面波源）",ViuTV
+#EXTINF:-1 group-title="高清香港台（地面波源）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",ViuTV
 https://cdn.hkyoutv.com/hls/99/index.m3u8
-#EXTINF:-1 group-title="高清香港台（地面波源）",ViuTV Six
+#EXTINF:-1 group-title="高清香港台（地面波源）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",ViuTV Six
 https://cdn.hkyoutv.com/hls/96/index.m3u8
-#EXTINF:-1 group-title="高清香港台（地面波源）",ViuTV Six （第二聲度）
+#EXTINF:-1 group-title="高清香港台（地面波源）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",ViuTV Six （第二聲度）
 https://cdn.hkyoutv.com/hls/96b/index.m3u8
-#EXTINF:-1 group-title="高清香港台（地面波源）",港台電視31
+#EXTINF:-1 group-title="高清香港台（地面波源）" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png",港台電視31
 https://cdn.hkyoutv.com/hls/31/index.m3u8
-#EXTINF:-1 group-title="高清香港台（地面波源）",港台電視32
+#EXTINF:-1 group-title="高清香港台（地面波源）" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/320px-RTHK_TV_32.svg.png",港台電視32
 https://cdn.hkyoutv.com/hls/32/index.m3u8
 #EXTINF:-1 group-title="高清香港台（地面波源）",港台電視33
 https://cdn.hkyoutv.com/hls/33/index.m3u8
-#EXTINF:-1 group-title="高清香港台（地面波源）",香港開電視
+#EXTINF:-1 group-title="高清香港台（地面波源）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",香港開電視
 https://cdn.hkyoutv.com/hls/77/index.m3u8
 #EXTINF:-1 group-title="高清香港台（地面波源）",香港國際財經台
 https://cdn.hkyoutv.com/hls/76/index.m3u8
-#EXTINF:-1 group-title="港台高清",翡翠台
-http://206.119.173.184/tv/js.php?id=4
-#EXTINF:-1 group-title="港台高清",明珠台
-http://206.119.173.184/tv/js.php?id=6
-#EXTINF:-1 group-title="港台高清",J2
-http://206.119.173.184/tv/js.php?id=9
-#EXTINF:-1 group-title="港台高清",无线新闻
-http://206.119.173.184/tv/js.php?id=12
-#EXTINF:-1 group-title="港台高清",无线财经
-http://206.119.173.184/tv/js.php?id=13
-#EXTINF:-1 group-title="港台高清",无线财经
-http://206.119.173.184/tv/js.php?id=14
-#EXTINF:-1 group-title="港台高清",VIU6
-http://206.119.173.184/tv/js.php?id=16
-#EXTINF:-1 group-title="港台高清",VIUTV
-http://206.119.173.184/tv/js.php?id=15
-#EXTINF:-1 group-title="港台高清",RHK31
-http://206.119.173.184/tv/js.php?id=17
-#EXTINF:-1 group-title="港台高清",RHK32
-http://206.119.173.184/tv/js.php?id=18
-#EXTINF:-1 group-title="港台高清",TVBS欢乐台
-http://206.119.173.184/tv/js.php?id=22
-#EXTINF:-1 group-title="港台高清",C+
-http://206.119.173.184/tv/js.php?id=21
-#EXTINF:-1 group-title="港台高清",now直播
-http://206.119.173.184/tv/js.php?id=20
-#EXTINF:-1 group-title="港台高清",中天娱乐
-http://206.119.173.184/tv/js.php?id=23
-#EXTINF:-1 group-title="港台高清",中天综合
-http://206.119.173.184/tv/js.php?id=25
-#EXTINF:-1 group-title="港台高清",中视
-http://206.119.173.184/tv/js.php?id=29
-#EXTINF:-1 group-title="港台高清",民视
-http://206.119.173.184/tv/js.php?id=30
-#EXTINF:-1 group-title="港台高清",八大一台
-http://206.119.173.184/tv/js.php?id=34
-#EXTINF:-1 group-title="港台高清",华视
-http://206.119.173.184/tv/js.php?id=32
-#EXTINF:-1 group-title="港台高清",民视台湾台
-http://206.119.173.184/tv/js.php?id=31
-#EXTINF:-1 group-title="港台高清",八大戏剧
-http://206.119.173.184/tv/js.php?id=36
-#EXTINF:-1 group-title="港台高清",八大综合
-http://206.119.173.184/tv/js.php?id=35
-#EXTINF:-1 group-title="港台高清",八大娱乐
-http://206.119.173.184/tv/js.php?id=37
-#EXTINF:-1 group-title="港台高清",三立台湾
-http://206.119.173.184/tv/js.php?id=38
-#EXTINF:-1 group-title="港台高清",三立综合
-http://206.119.173.184/tv/js.php?id=40
-#EXTINF:-1 group-title="港台高清",三立都会
-http://206.119.173.184/tv/js.php?id=41
-#EXTINF:-1 group-title="港台高清",东森综合
-http://206.119.173.184/tv/js.php?id=42
-#EXTINF:-1 group-title="港台高清",东森超视
-http://206.119.173.184/tv/js.php?id=43
-#EXTINF:-1 group-title="港台高清",民视第一
-http://206.119.173.184/tv/js.php?id=46
-#EXTINF:-1 group-title="HK高清",翡翠台 - 线路1（大陆线路）
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
-#EXTINF:-1 group-title="HK高清",翡翠台 - 线路2（大陆线路）
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 group-title="HK高清",明珠台广东
-http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+#EXTINF:-1 group-title="香港地面波内地版" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
+https://cdn.hkyoutv.com/raw/81.ts
+#EXTINF:-1 group-title="香港地面波内地版" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",J2台
+https://cdn.hkyoutv.com/raw/82.ts
+#EXTINF:-1 group-title="香港地面波内地版" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQ2QS.png",無綫新聞台
+https://cdn.hkyoutv.com/raw/83.ts
+#EXTINF:-1 group-title="香港地面波内地版" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",明珠台
+https://cdn.hkyoutv.com/raw/84.ts
+#EXTINF:-1 group-title="香港地面波内地版" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQhRH.png",無綫財經·資訊台
+https://cdn.hkyoutv.com/raw/85.ts
+#EXTINF:-1 group-title="香港地面波内地版" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",ViuTV
+https://cdn.hkyoutv.com/raw/99.ts
+#EXTINF:-1 group-title="香港地面波内地版" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",ViuTV Six
+https://cdn.hkyoutv.com/raw/96.ts
+#EXTINF:-1 group-title="香港地面波内地版" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png",港台電視31
+https://cdn.hkyoutv.com/raw/31.ts
+#EXTINF:-1 group-title="香港地面波内地版" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/320px-RTHK_TV_32.svg.png",港台電視32
+https://cdn.hkyoutv.com/raw/32.ts
+#EXTINF:-1 group-title="香港地面波内地版",港台電視33
+https://cdn.hkyoutv.com/raw/33.ts
+#EXTINF:-1 group-title="香港地面波内地版" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",香港開電視
+https://cdn.hkyoutv.com/raw/77.ts
+#EXTINF:-1 group-title="香港地面波内地版",香港國際財經台
+https://cdn.hkyoutv.com/raw/76.ts
+#EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
+https://cdn.hkdtmb.com/raw/81.ts
+#EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",J2台
+https://cdn.hkdtmb.com/raw/82.ts
+#EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQ2QS.png",無綫新聞台
+https://cdn.hkdtmb.com/raw/83.ts
+#EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",明珠台
+https://cdn.hkdtmb.com/raw/84.ts
+#EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQhRH.png",無綫財經·資訊台
+https://cdn.hkdtmb.com/raw/85.ts
+#EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",ViuTV
+https://cdn.hkdtmb.com/raw/99.ts
+#EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",ViuTV Six
+https://cdn.hkdtmb.com/raw/96.ts
+#EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png",港台電視31
+https://cdn.hkdtmb.com/raw/31.ts
+#EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/320px-RTHK_TV_32.svg.png",港台電視32
+https://cdn.hkdtmb.com/raw/32.ts
+#EXTINF:-1 group-title="HK地面波挂代理",港台電視33
+https://cdn.hkdtmb.com/raw/33.ts
+#EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",香港開電視
+https://cdn.hkdtmb.com/raw/77.ts
+#EXTINF:-1 group-title="HK地面波挂代理",香港國際財經台
+https://cdn.hkdtmb.com/raw/76.ts
 #EXTINF:-1 group-title="HK高清",翡翠台（高清）
 http://iptv.tvfix.org/hls/jade.m3u8
-#EXTINF:-1 group-title="HK高清",翡翠明珠台
-http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 group-title="HK高清",ViuTV
-http://61.238.6.49:8000/bysid/99.m3u8
-#EXTINF:-1 group-title="HK高清",ViuTVsix
-http://61.238.6.49:8000/bysid/96.m3u8
 #EXTINF:-1 group-title="HK高清",香港C+ - 蓝光1
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="广东",广州南国都市
@@ -233,27 +211,27 @@ http://live.pybtv.cn/channel1/sd/live.m3u8
 http://jdsw.top:8000/udp/239.253.43.1:5146
 #EXTINF:-1 group-title="广东",肇庆公共
 http://jdsw.top:8000/udp/239.253.43.2:5146
-#EXTINF:-1 group-title="台湾",民视
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="台湾",民视
 rtmp://59.124.75.157/sat/tv051
-#EXTINF:-1 group-title="台湾",台视
+#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="台湾",台视
 rtmp://59.124.75.157/sat/tv071
-#EXTINF:-1 group-title="台湾",中视
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="台湾",中视
 rtmp://59.124.75.157/sat/tv091
-#EXTINF:-1 group-title="台湾",华视
+#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾",华视
 rtmp://59.124.75.157/sat/tv111
-#EXTINF:-1 group-title="台湾",TVBS欢乐台
+#EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="台湾",TVBS欢乐台
 rtmp://59.124.75.157/sat/tv421
-#EXTINF:-1 group-title="台湾",TVBS新闻台
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="台湾",TVBS新闻台
 rtmp://59.124.75.157/sat/tv551
-#EXTINF:-1 group-title="台湾",东森超视
+#EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="台湾",东森超视
 rtmp://59.124.75.157/sat/tv331
-#EXTINF:-1 group-title="台湾",东森财经新闻
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台湾",东森财经新闻
 rtmp://59.124.75.157/sat/tv571
-#EXTINF:-1 group-title="台湾",纬来日本
+#EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台湾",纬来日本
 rtmp://59.124.75.157/sat/tv771
-#EXTINF:-1 group-title="台湾",纬来育乐
+#EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="台湾",纬来育乐
 rtmp://59.124.75.157/sat/tv701
-#EXTINF:-1 group-title="台湾",纬来体育
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="台湾",纬来体育
 rtmp://59.124.75.157/sat/tv721
 #EXTINF:-1 group-title="台湾",台视
 http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
@@ -393,33 +371,9 @@ http://iptv.tvfix.org/hls/tvbsnews.m3u8
 http://iptv.tvfix.org/hls/tvbws.m3u8
 #EXTINF:-1 group-title="电视侠",TVB为食台(第2声道)
 http://iptv.tvfix.org/hls/tvbws2.m3u8
-#EXTINF:-1 group-title="香港台",翡翠综合
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
-#EXTINF:-1 group-title="香港台",翡翠综合
-http://danielwu.gz01.bdysite.com/iptv/?id=tvb
-#EXTINF:-1 group-title="香港台",翡翠综合
-http://61.238.6.49:8000/bysid/1
-#EXTINF:-1 group-title="香港台",翡翠明珠
-http://61.238.6.49:8001/bysid/2
-#EXTINF:-1 group-title="香港台",翡翠明珠
-http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 group-title="香港台",翡翠明珠
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 group-title="香港台",翡翠明珠
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
-#EXTINF:-1 group-title="香港台",无线新闻
-http://61.238.6.49:8001/bysid/83
-#EXTINF:-1 group-title="香港台",无线新闻
-http://danielwu.gz01.bdysite.com/iptv/?id=wxxw2
-#EXTINF:-1 group-title="香港台",有线新闻
-http://danielwu.gz01.bdysite.com/iptv/?id=yxxw
-#EXTINF:-1 group-title="香港台",无线财经
-http://61.238.6.49:8001/bysid/85
-#EXTINF:-1 group-title="香港台",J2台
-http://61.238.6.49:8001/bysid/82
-#EXTINF:-1 group-title="CCTV",CCTV-1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-1 8M
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1 8M
 http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-2
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
